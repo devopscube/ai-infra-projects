@@ -79,4 +79,4 @@ Tie it all together. Build a self-service platform where a team pushes a model a
 
 ---
 
-> 💬 **Want a project that is not here?** Open an [Issue](https://github.com/techiescamp/devops-projects/issues) with the title and use case. AI infra moves fast and this track grows with it.
+> 💬 **Want a project that is not here?** Open an [Issue](https://github.com/devopscube/ai-infra-projects/issues) with the title and use case. AI infra moves fast and this track grows with it.
